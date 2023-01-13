@@ -1,0 +1,52 @@
+.heading{
+    width: 100%;
+}
+.heading h3{
+    display: inline;
+    margin-top: 5px;
+}
+.heading button{
+    border:1px solid white;
+    border-radius: 8px;
+    padding: 5px;
+    text-shadow:3px 5px 3px lime ;
+    float : right;
+    font-size: 17px;
+
+}
+.big-image{
+    width: 100%;
+}
+#start{
+    font-size: 22px;
+}
+h4{
+    background-color: #f5f5f5;
+    line-height: 2px;
+    margin: 0 ;
+}
+.modal-dialog{
+    width: 90%;
+
+}
+#ins{
+    font-family: 'Rubik Microbe', cursive;
+}
+.instruction-image{
+    display: inline-block;
+}
+#game_console{
+    background: url("game_console.png");
+    background-size: cover;
+    width: 750px;
+    height: 357px;
+    background-position: center;
+    padding: 100px;
+}
+#footer{
+    background-color: rgb(0, 255, 157);
+    padding: 20px;
+    bottom: 0;
+    border: 5px solid #fb8500;
+    border-radius: 10px;
+}
